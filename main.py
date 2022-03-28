@@ -3,7 +3,7 @@ from twilio.rest import Client
 api_key = "api key of open weather"
 weather_url = 'https://api.openweathermap.org/data/2.5/onecall'
 
-account_sid = 'AC89adca6507be3948d27bdf7d3c30e346'
+account_sid = 'twilio account sid'
 account_auth = "auth token of twilio"
 parameters = {
     'lat' : 13.756331,
